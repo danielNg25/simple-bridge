@@ -1,12 +1,12 @@
 # A simple bridge for bridging native BNB to Polygon
 ## Prerequisites
 You should have basic knowledge of:
-Smart contract & Solidity
-Typescript & NodeJs
-Have npm, yarn & git installed
+- Smart contract & Solidity
+- Typescript & NodeJs
+- Have npm, yarn & git installed
 
 ## How to use
-
+Clone this repository
 ### Environment variables
 Put your PRIVATE_KEY, BSCSCAN_KEY, POLYGONSCAN_KEY in the .env file. (Find example in .env.sample file)
 
