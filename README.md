@@ -28,7 +28,6 @@ yarn deploy
 yarn compile
 ```
 5. Run bridge
-2. Compile smart contracts
 ```sh
 yarn start
 ```
